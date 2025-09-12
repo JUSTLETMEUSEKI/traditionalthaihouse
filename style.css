@@ -1,0 +1,107 @@
+.topnav {
+    background-color: #333;
+    overflow: auto;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 20px 20px;
+    text-decoration: none;
+    font-size: 22px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    background-color: #e683ff;
+    color: white;
+  }
+  
+.First{
+  text-align: center;
+  font-style: italic;
+}
+  
+
+
+
+p{
+    text-align: center;
+    font-size: 25px; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+    font-size: 50;
+}
+
+
+    
+
+
+.Contract{
+  text-align: center;
+  font-size: 50px;
+  font-style: italic;
+}
+
+.Abough{
+  text-align: center;
+  font-size: 50px;
+  font-style: italic;
+
+}
+
+body{
+  padding-left: 100px;
+  padding-right: 100px;
+
+}
+
+hr{
+  height: 3px;
+  background-color: black;
+}
+
+.Source2{
+  text-align: center;
+  font-size: 50px;
+}
+
+.BorderOfLife{
+  font-size: 50px;
+  background-color: brown;
+  color: white;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  text-align: center;
+}
+
+.lick{
+  padding-left: 55%;
+}
+
+.BoudaryOfDeath{
+  font-size: 50px;
+  background-color: brown;
+  color: white;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  text-align: center;
+}
